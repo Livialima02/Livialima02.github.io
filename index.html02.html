@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  <title>Forms</title>
+</head>
+<body>
+  <form action="formulario">
+  <h1>Travel reservation form</h1>
+  
+  <h3>*denotes mandotory</h3> 
+  
+    full name*:
+    <br>
+    <input type="text" name="full name" required placeholder="FirstName LastName">
+    <br>
+    Email address*:
+    <br>
+    <input type="Email" name="Email" required placeholder="EMAIL_ADDRESS">
+    <br>
+    Select Tour Package* :
+    <br>
+     <select name="select Tour Package">
+      <option value="Goa">Goa</option>
+      <option value="Andhra Pradesh">andhra</option>
+      <option value="Haryana">Haryana</option>
+      <option value="Assam">Assam</option>
+    </select>
+    <br>
+    Arrival date*:
+    <br>
+    <input placeholder="m\d\y">
+    <br>
+    Number of persons
+    <br>
+    <input type="text" name="Number" placeholder="UNKNOWN_TYPE" min="1" max="9">
+    <br>
+    What would you want to avail?*
+    <br>
+    Boarding
+    <input type="checkbox" name="text"/>
+    <br>
+    Fooding
+    <input type="checkbox" name="text"/>
+    <br>
+    Sight seeing
+    <input type="checkbox" name="text"/>
+    <br>
+    Discout Coupon code:
+    <br>
+    <input type="text" required placeholder="UNKNOWN_TYPE" maxlength="6" minlength="6">
+    <br>
+    Terms and conditions* 
+    <br>
+    <input type="radio" name="Terms and conditions" value="2"/>
+    I agree
+    <input type="radio" name="Terms and conditions" value="1"/>
+    I disagree
+    <br>
+    <button>complete reservation</button>
+  </form> 
+</body>
+</html>
