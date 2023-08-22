@@ -5,6 +5,11 @@ img {
     margin-left: 30px;
 }
 
+.body {
+	color: turquoise;
+}
+
+
 p.legenda {
 	margin-left: 30px;
 	font-style: italic;
