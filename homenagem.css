@@ -1,0 +1,29 @@
+img {
+	max-width: 100%;
+	height: auto;
+	display: block;
+    margin-left: 30px;
+}
+
+p.legenda {
+	margin-left: 30px;
+	font-style: italic;
+    color: rgb(72, 110, 139);
+    line-height: 0;
+
+}
+
+h2 {
+	color: gray;
+	font-size: 20px;
+}
+
+ul {
+	list-style-type: square;
+    margin-left: 20px;
+}
+
+p {
+	font-weight: bold;
+}
+	
