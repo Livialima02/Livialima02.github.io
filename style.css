@@ -1,0 +1,53 @@
+h1 {
+  text-align: center;
+  border: 2px solid black;
+  box-shadow: 5px 5px grey;
+}
+
+body {
+  background-color: azure;
+}
+
+.my-element {
+  background-color: paleturquoise;
+  padding: 0px; 
+}
+
+.my-subtitulo {
+  text-align: center;
+}
+
+.my-Name {
+  position: absolute;
+  left: 750px;
+}
+
+.my-Email {
+  position: absolute;
+  left: 750px;
+}
+
+.my-Age {
+  position: absolute;
+  left: 750px;
+}
+
+.my-Student {
+  position: absolute;
+  left: 500px;
+}
+
+.my-Friend {
+    position: absolute;
+    left:550px;
+}
+
+.my-Fcc {
+    position: absolute;
+    left: 630px;
+}
+.my-check {
+    position: absolute;
+    left: 550px;
+}
+	
