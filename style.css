@@ -17,37 +17,4 @@ body {
   text-align: center;
 }
 
-.my-Name {
-  position: absolute;
-  left: 750px;
-}
-
-.my-Email {
-  position: absolute;
-  left: 750px;
-}
-
-.my-Age {
-  position: absolute;
-  left: 750px;
-}
-
-.my-Student {
-  position: absolute;
-  left: 500px;
-}
-
-.my-Friend {
-    position: absolute;
-    left:550px;
-}
-
-.my-Fcc {
-    position: absolute;
-    left: 630px;
-}
-.my-check {
-    position: absolute;
-    left: 550px;
-}
 	
