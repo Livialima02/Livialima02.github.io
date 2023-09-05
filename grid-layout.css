@@ -14,6 +14,7 @@
     border-style: solid;
     border-radius: 15px;
     border-color: blue;
+    padding: 20px;
   }
 
 
@@ -35,6 +36,7 @@
         border-style: solid;
         border-radius: 15px;
         border-color: blue;
+        padding: 20px;
     }
 
   .three {
@@ -45,6 +47,7 @@
     background-color: darkviolet;
     border-radius: 15px;
     border-color: blue;
+    padding: 20px;
 }
   .four {
     grid-column: 3;
@@ -54,6 +57,7 @@
     background-color: mediumorchid;
     border-radius: 15px;
     border-color: blue;
+    padding: 20px;
   }
   .five {
     grid-column: 2;
@@ -63,6 +67,7 @@
     background-color: orchid;
     border-radius: 15px;
     border-color: blue;
+    padding: 20px;
   }
   .six {
     grid-column: 3;
@@ -72,4 +77,5 @@
     background-color: violet;
     border-radius: 15px;
     border-color: blue;
+    padding: 20px;
   }
